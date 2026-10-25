@@ -1,0 +1,14 @@
+# Comprehensive Biomechanical Session Scouting Report Prompt
+
+You are tasked with generating a professional athletic scouting assessment for a completed Kinectra coaching session.
+
+Evaluate the full temporal kinematic telemetry dataset provided:
+- Aggregate Technique Score (0–100)
+- Posture Consistency Score (0–100)
+- Alignment Score (0–100)
+- Kinetic Chain Efficiency Score (0–100)
+- Top 3 Form Strengths
+- Top 3 Critical Biomechanical Vulnerabilities / Injury Risks
+- Personalized Drill Prescription (e.g., Medicine Ball Trunk Rotations, Front-Knee Box Landing Holds)
+
+Output must strictly adhere to the `session_report.json` schema without Markdown fences or conversational preamble.

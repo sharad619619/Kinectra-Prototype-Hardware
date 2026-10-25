@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KinectraDeviationAlert",
+  "type": "object",
+  "required": [
+    "alert_id",
+    "timestamp_ms",
+    "severity",
+    "joint_affected",
+    "measured_value",
+    "threshold_value",
+    "vocal_message",
+    "trigger_haptic"
+  ],
+  "properties": {
+    "alert_id": { "type": "string" },
+    "timestamp_ms": { "type": "integer" },
+    "severity": { "type": "string", "enum": ["info", "warning", "critical"] },
+    "joint_affected": { "type": "string", "enum": ["elbow", "knee", "spine", "shoulder"] },
+    "measured_value": { "type": "number" },
+    "threshold_value": { "type": "number" },
+    "vocal_message": { "type": "string", "maxLength": 100 },
+    "trigger_haptic": { "type": "boolean" },
+    "haptic_duration_ms": { "type": "integer", "default": 200 }
+  }
+}
