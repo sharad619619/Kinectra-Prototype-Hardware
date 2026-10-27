@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650" style="background:#030712; font-family:'Inter', sans-serif;">
+  <!-- Header -->
+  <rect x="0" y="0" width="1000" height="55" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <text x="30" y="34" font-size="16" font-weight="bold" fill="#ffffff">KINECTRA BIOMECHANICS SCOUTING REPORT</text>
+  <text x="750" y="34" font-size="12" font-family="monospace" fill="#94a3b8">SESSION ID: #KB-2026-9481</text>
+
+  <!-- Left: Overall Score Card -->
+  <rect x="30" y="80" width="450" height="230" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="55" y="115" font-size="13" font-weight="600" fill="#94a3b8">OVERALL TECHNIQUE INDEX</text>
+  <text x="55" y="175" font-size="54" font-family="monospace" font-weight="800" fill="#38bdf8">92<tspan font-size="22" fill="#64748b">/100</tspan></text>
+  <text x="185" y="150" font-size="14" font-weight="700" fill="#10b981">EXCELLENT COMPLIANCE</text>
+  <text x="185" y="172" font-size="12" fill="#94a3b8">ICC Regulation Straight Arm Certified</text>
+
+  <!-- Breakdown Bars -->
+  <text x="55" y="210" font-size="11" fill="#cbd5e1">Posture: 94%</text>
+  <rect x="150" y="202" width="280" height="8" rx="4" fill="#1e293b"/>
+  <rect x="150" y="202" width="263" height="8" rx="4" fill="#0ea5e9"/>
+
+  <text x="55" y="235" font-size="11" fill="#cbd5e1">Stability: 90%</text>
+  <rect x="150" y="227" width="280" height="8" rx="4" fill="#1e293b"/>
+  <rect x="150" y="227" width="252" height="8" rx="4" fill="#10b981"/>
+
+  <text x="55" y="260" font-size="11" fill="#cbd5e1">Alignment: 92%</text>
+  <rect x="150" y="252" width="280" height="8" rx="4" fill="#1e293b"/>
+  <rect x="150" y="252" width="257" height="8" rx="4" fill="#38bdf8"/>
+
+  <text x="55" y="285" font-size="11" fill="#cbd5e1">Efficiency: 88%</text>
+  <rect x="150" y="277" width="280" height="8" rx="4" fill="#1e293b"/>
+  <rect x="150" y="277" width="246" height="8" rx="4" fill="#f97316"/>
+
+  <!-- Right: Key Strengths & Vulnerabilities -->
+  <rect x="510" y="80" width="460" height="230" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="535" y="115" font-size="13" font-weight="700" fill="#10b981">BIOMECHANICAL STRENGTHS</text>
+  <text x="535" y="140" font-size="12" fill="#cbd5e1">• Firm front knee brace on landing (152°), avoiding patellar stress.</text>
+  <text x="535" y="162" font-size="12" fill="#cbd5e1">• High release extension (172°) maximizes downward bounce trajectory.</text>
+  <text x="535" y="184" font-size="12" fill="#cbd5e1">• Optimal shoulder rotation through delivery swing (16° deviation).</text>
+
+  <line x1="535" y1="202" x2="945" y2="202" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="535" y="228" font-size="13" font-weight="700" fill="#f43f5e">AREAS FOR REMEDIATION</text>
+  <text x="535" y="253" font-size="12" fill="#cbd5e1">• Minor lateral trunk tilt increase (24°) on delivery 14.</text>
+  <text x="535" y="275" font-size="12" fill="#cbd5e1">• Deceleration stride drift towards pitch danger area.</text>
+
+  <!-- Bottom: Prescribed Drills -->
+  <rect x="30" y="335" width="940" height="280" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="55" y="370" font-size="14" font-weight="700" fill="#f97316">PRESCRIBED BIOMECHANICS DRILL PROTOCOL</text>
+
+  <!-- Drill Card 1 -->
+  <rect x="55" y="395" width="420" height="195" rx="10" fill="#090d16" stroke="#1e293b" stroke-width="1"/>
+  <text x="75" y="425" font-size="13" font-weight="700" fill="#ffffff">1. Front-Foot Landing Brace Box Holds</text>
+  <text x="75" y="448" font-size="11" font-family="monospace" fill="#38bdf8">Target: Front Knee Stiffness (145° - 165°)</text>
+  <text x="75" y="470" font-size="11" font-family="monospace" fill="#10b981">Volume: 4 sets x 8 holds (5 sec isometric)</text>
+  <text x="75" y="500" font-size="12" fill="#94a3b8">Step forcefully into delivery stride on an elevated box,</text>
+  <text x="75" y="520" font-size="12" fill="#94a3b8">locking front knee to absorb ground-reaction impact</text>
+  <text x="75" y="540" font-size="12" fill="#94a3b8">without buckling.</text>
+
+  <!-- Drill Card 2 -->
+  <rect x="500" y="395" width="445" height="195" rx="10" fill="#090d16" stroke="#1e293b" stroke-width="1"/>
+  <text x="520" y="425" font-size="13" font-weight="700" fill="#ffffff">2. Target Line Towel Whip Extensions</text>
+  <text x="520" y="448" font-size="11" font-family="monospace" fill="#38bdf8">Target: Straight Arm Extension Through Release</text>
+  <text x="520" y="470" font-size="11" font-family="monospace" fill="#10b981">Volume: 3 sets x 15 reps</text>
+  <text x="520" y="500" font-size="12" fill="#94a3b8">Execute bowling arm circle holding a towel to enforce</text>
+  <text x="520" y="520" font-size="12" fill="#94a3b8">a legal high overhead release arch with zero elbow</text>
+  <text x="520" y="540" font-size="12" fill="#94a3b8">flexion snap.</text>
+</svg>
